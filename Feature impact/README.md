@@ -1,13 +1,13 @@
 ## Анализ влияния Smart Bidding на выручку проекта
 
-[ссылка на работу](https://github.com/Radikdpm55/Projects/blob/main/A-A%20test%20UX/Change%20create%20ad%20fuctional%20(DiD)%20AN-1904.ipynb)
+[ссылка на работу](https://github.com/Radikdpm55/Projects/blob/main/Feature%20impact/Smart%20bidding%20analyze%20AN-1941.ipynb)
 ### Описание проекта:
 
 Заказчик : Product manager
 
 Задача :
 
-Создать переиспользуемый код для анализа А-Б теста
+Понять вклад новой фичи в просадку проекта.
 
 
 ### Навыки и инструменты
@@ -17,11 +17,9 @@
     - **numpy**
     - **matplotlib**
     - **sqlalchemy**
-    - **scipy**
-    - **seaborn**
-- **MySQL**, **BigQuery**, **GoogleSheet**
+- **MySQL**, **ClickHouse**, **GoogleSheet**
 
 
 ### Результат
 
-Проведён А-А тест, даны рекомендации по проведению А-Б теста. Создан переиспользуемый код для DiD анализа А-Б теста
+Выявлен импакт фичи, предоставлен отчёт для бизнеса.
